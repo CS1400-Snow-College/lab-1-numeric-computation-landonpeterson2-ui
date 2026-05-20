@@ -3,3 +3,15 @@ int b = 6;
 int c = a + b;
 Console.WriteLine(c);
 
+c = a - b;
+Console.WriteLine(c);
+
+c= a * b;
+Console.WriteLine(c);
+
+c = a / b;
+Console.WriteLine(c);
+
+c = a + b - 12 * 17;
+Console.WriteLine(c);
+
